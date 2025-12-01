@@ -6,4 +6,6 @@
 
 ### :fire: Stats
 
-![Massimiliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxgalli&show_icons=true&theme=radical)
+![Massimiliano Galli's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxgalli&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgalli&layout=donut&hide=jupyter%20notebook,tex&exclude_repo=lanconelLab2)](https://github.com/anuraghazra/github-readme-stats)
